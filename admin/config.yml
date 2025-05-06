@@ -9,7 +9,7 @@
 backend:
   name: github
   repo: ElmarJ/lastnightintownband.nl
-  branch: master
+  branch: main
 
 # The folder used to store uploaded images
 media_folder: "assets/img"
