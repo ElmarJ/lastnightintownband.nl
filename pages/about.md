@@ -1,5 +1,5 @@
 ---
-title: About
+title: Over ons
 date: 2017-01-01T01:00
 permalink: /about/index.html
 eleventyNavigation:
